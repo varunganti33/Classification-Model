@@ -1,6 +1,7 @@
 # 4.01-lab-classification_model_comparison
 Week 4, Lab 1: Classification Model Comparison
-> Predicting Left-Handedness from Psychological Indicators
+> Predicting Left-Handedness from Psychological Factors
+
 > Author: Matt Brems
 
 We can sketch out the data science process as follows:
