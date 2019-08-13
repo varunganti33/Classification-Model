@@ -29,7 +29,7 @@ We'll walk through a full data science problem in this lab. Specifically, we'll 
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lab |  Classification Model Comparison Jupyter Notebook | [Link](./starter-code.ipynb)|
-| Data | Handedness and Psychological Factors Dataset | [Link](./xyz)|
+| Data | Handedness and Psychological Factors Dataset | [Link](./data.csv)|
 | Codebook | Describes contents of the dataset | [Link](./codebook.txt)|
 
 ---
